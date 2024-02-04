@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body{
+    max-width: 954px;
+    min-width: 300px;
+    margin: auto;
+    font-family: Tahoma, sans-serif;
+    background-image: linear-gradient(to right, rgba(211, 230, 231, 0.589), rgba(255, 255, 255, 0.587));
+}
+header{
+    background-color: rgb(0, 229, 255);
+    padding: 10px;
+}
+main{
+    margin-left: 12px;
+    text-indent: 20px;
+    font-size: 14px;
+    text-align: justify;
+    padding-right: 12px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 13px;
+}
+a:hover{
+    color: rgb(236, 50, 50);
+}
+a:active{
+    color: rgb(226, 213, 20);
+}
+ul{
+    font-weight: bolder;
+}
+li{
+    font-weight: 800;
+    font-size: 14px;
+}
+.voltar{
+    padding-left: 7.8px;
+}
