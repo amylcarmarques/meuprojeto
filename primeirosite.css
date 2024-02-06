@@ -60,6 +60,7 @@ footer{
 }
 h3{
     margin-left: 45px;
+    padding: 5px;
 }
 main{
     padding-top: 10PX;
@@ -70,14 +71,19 @@ main{
     border-style: solid;
     box-shadow: 0px 6px 3px rgba(0, 0, 0, 0.201);
     border: 0px;
-
-    
+    display: inline-block;
 }
 video{
-    width: 310px;
+    width: 315px;
 }
 .paragrafo{
     text-indent: 10px;
     text-align: justify;
     padding-right: 8px;
+}
+.nav1{
+    width: 300px;
+    padding: 7px;
+    text-align: justify;
+    text-indent: 8px;
 }
